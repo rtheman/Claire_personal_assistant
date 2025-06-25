@@ -1,12 +1,12 @@
-# 🤖 Claire – AI Appointment Scheduling Assistant
+# 🤖 Cl(ai)re – AI Appointment Scheduling Assistant
 
-Claire is a friendly, voice-enabled AI assistant built to handle appointment scheduling, rescheduling, cancellations, and weather inquiries—entirely over voice. Designed with minimal code using modern tools like [ElevenLabs AI Agents](https://elevenlabs.io/), Cal.com APIs, and webhook integrations, Claire showcases how powerful, human-like assistants can be created without writing complex backend logic.
+Cl(ai)re is a friendly, voice-enabled AI assistant built to handle appointment scheduling, rescheduling, cancellations, and weather inquiries—entirely over voice. Designed with minimal code using modern tools like [ElevenLabs AI Agents](https://elevenlabs.io/), Cal.com APIs, and webhook integrations, Claire showcases how powerful, human-like assistants can be created without writing complex backend logic.
 
 
 
 ## 🧠 About This Project
 
-**Claire** acts as a conversational agent for booking and managing appointments through natural, voice-based interaction. It speaks **English and German** natively and responds with clarity, charm, and a bit of wit—perfect for both professional and casual contexts.
+**Cl(ai)re** acts as a conversational agent for booking and managing appointments through natural, voice-based interaction. It speaks **English and German** natively and responds with clarity, charm, and a bit of wit—perfect for both professional and casual contexts.
 
 This project highlights how **low-code/no-code platforms** paired with thoughtful **system architecture and prompt design** can produce real-world, production-grade AI solutions.
 
@@ -39,7 +39,7 @@ Visual workflow and logic are shown in the diagram below:
 ## 🧩 Key Features
 
 ### 🗓️ Intelligent Scheduling
-Claire can:
+Cl(ai)re can:
 - Check availability (`get_Available_Slots`)
 - Book new appointments (`Book_Appointment`)
 - Reschedule existing appointments (`reschedule_appointment`)
@@ -47,7 +47,7 @@ Claire can:
 - Lookup current bookings (`find_appointment`)
 
 ### ☀️ Weather Forecasting
-Claire fetches real-time weather forecasts based on appointment location and time (`get_weather`), offering:
+Cl(ai)re fetches real-time weather forecasts based on appointment location and time (`get_weather`), offering:
 - Current weather summaries
 - 3–14 day forecasts
 - Friendly alerts for extreme weather
@@ -63,7 +63,7 @@ Claire fetches real-time weather forecasts based on appointment location and tim
 
 ## 📦 Custom Tools Overview
 
-Claire integrates with these webhooks (API endpoints):
+Cl(ai)re integrates with these webhooks (API endpoints):
 - `get_Available_Slots` – See open times
 - `Book_Appointment` – Schedule a meeting
 - `reschedule_appointment` – Adjust a booking
@@ -78,7 +78,7 @@ See tool configuration screenshot here:
 
 ## 🌍 Multilingual Support
 
-Claire dynamically detects and responds in German if the caller speaks it—enabling a more inclusive and accessible user experience.
+Cl(ai)re dynamically detects and responds in German if the caller speaks it—enabling a more inclusive and accessible user experience.
 
 ![Bilingual Setup](./AI%20Agent%20-%20Claire%20-%20Appointment%20Scheduling%20-%20bilingual.png)
 
