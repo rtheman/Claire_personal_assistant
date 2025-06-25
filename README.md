@@ -110,7 +110,7 @@ Built with ❤️ using:
 
 To build on Claire’s current capabilities and infrastructure, the following future enhancements are planned:
 
-## 1. 🧠 Migrate to Model Context Protocol (MCP)
+## 1. Migrate to Model Context Protocol (MCP)
 
 **Current State:** Claire interacts with external services like Cal.com and WeatherAPI.com using custom HTTP tools.
 
@@ -127,7 +127,7 @@ To build on Claire’s current capabilities and infrastructure, the following fu
 
 ---
 
-## 2. 🔄 Refactor Voice Agent Backend from ElevenLabs to N8N
+## 2. Refactor Voice Agent Backend from ElevenLabs to N8N
 
 **Current State:** ElevenLabs manages voice synthesis and agent operations.
 
