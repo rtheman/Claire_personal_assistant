@@ -2,6 +2,10 @@
 
 Cl(ai)re is a friendly, voice-enabled AI assistant built to handle appointment scheduling, rescheduling, cancellations, and weather inquiries—entirely over voice. Designed with minimal code using modern tools like [ElevenLabs AI Agents](https://elevenlabs.io/), Cal.com APIs, and webhook integrations, Claire showcases how powerful, human-like assistants can be created without writing complex backend logic.
 
+Currently, you can find this on bottom-right of [rtheman.com](rtheman.com), which looks something like this:
+![image](https://github.com/user-attachments/assets/cdbd95b1-fae4-4a1b-af6f-b7cf0bc80719)
+
+
 
 
 ## 🧠 About This Project
