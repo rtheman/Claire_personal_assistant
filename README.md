@@ -32,7 +32,7 @@ Even as a seasoned data scientist and ML strategist, I wanted to demonstrate tha
 
 Visual workflow and logic are shown in the diagram below:
 
-![System Flow](./AI%20Agent%20-%20Claire%20-%20Appointment%20Scheduling.png)
+![System Flow](https://github.com/rtheman/Claire_personal_assistant/blob/dc40e4360d303a0abb20b12034ec8c571e54d091/AI%20Agent%20-%20Claire%20-%20Appointment%20Scheduling%20-%20Functional%20flow%20chart.png)
 
 ---
 
