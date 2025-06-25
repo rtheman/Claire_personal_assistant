@@ -64,12 +64,12 @@ Cl(ai)re fetches real-time weather forecasts based on appointment location and t
 ## 📦 Custom Tools Overview
 
 Cl(ai)re integrates with these webhooks (API endpoints):
-- `get_Available_Slots` – See open times
-- `Book_Appointment` – Schedule a meeting
-- `reschedule_appointment` – Adjust a booking
-- `cancel_appointment` – Delete a booking
-- `find_appointment` – Lookup existing booking
-- `get_weather` – Forecast weather at appointment location
+- [`get_Available_Slots`](./Sub%20Agents/get_available_slots) – See open times
+- [`Book_Appointment`](./Sub%20Agents/Book_Appointment) – Schedule a meeting
+- [`reschedule_appointment`](./Sub%20Agents/reschedule_appointment) – Adjust a booking
+- [`cancel_appointment`](./Sub%20Agents/cancel_appointment) – Delete a booking
+- [`find_appointment`](./Sub%20Agents/find_appointment) – Lookup existing booking
+- [`get_weather`](./Sub%20Agents/get_weather) – Forecast weather at appointment location
 
 See tool configuration screenshot here:  
 ![Custom Tools](./AI%20Agent%20-%20Claire%20-%20Appointment%20Scheduling%20-%20Custom%20Tools.png)
