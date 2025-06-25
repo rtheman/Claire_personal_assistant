@@ -36,6 +36,12 @@ Visual workflow and logic are shown in the diagram below:
 
 ---
 
+## 🤖 System Prompt
+This AI agent prompt defines how **Claire**, the voice-enabled appointment assistant, behaves, speaks, and handles scheduling tasks. It acts as the foundation for repeatable, explainable performance across all caller interactions.
+
+Details of system prompt can be found [here](./Main%20Agent%20System%20Prompt).
+
+
 ## 🧩 Key Features
 
 ### 🗓️ Intelligent Scheduling
