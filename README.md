@@ -92,12 +92,6 @@ Cl(ai)re dynamically detects and responds in German if the caller speaks it—en
 
 ![Bilingual Setup](./AI%20Agent%20-%20Claire%20-%20Appointment%20Scheduling%20-%20bilingual.png)
 
----
-
-## ✅ Next Steps & Ideas
-- Add calendar integration to check personal availability from Outlook/Google
-- Add SMS/email confirmation post-booking
-- Support rich context memory for returning users
 
 ---
 
