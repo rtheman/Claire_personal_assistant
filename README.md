@@ -153,6 +153,9 @@ To build on Claire’s current capabilities and infrastructure, the following fu
 # 💡 Lessons Learned
 *as of 2025-06-25*
 
+![image](https://github.com/user-attachments/assets/bed217b2-4ada-4ffe-8dd7-f9ecac502d36)
+
+
 ## 1. 🔁 Repeatability vs Flexibility
 
 AI Agents thrive when grounded in structure. But building Claire raised this question:  
